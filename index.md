@@ -30,4 +30,4 @@
 
 | Item wanted | Seeker | Notes |
 | ---  | --- | --- |
-| Glowstone | Dan | :bulb: |
+| Glowstone | Dan | |
