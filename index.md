@@ -17,6 +17,7 @@
 | `End` |City with Ship` | -1859 | -4100 |
 
 ## Who has what
+
 | Contact | Resource | Location | Notes |
 | ---  | --- | --- | --- |
 | Dan | Wool | Farm | All colors|
@@ -26,6 +27,7 @@
 | Owen | Sugar Cane | Farm | x |
 
 ## Wanted List
+
 | Item wanted | Seeker | Notes | Fulfilled |
 | ---  | --- | --- | --- |
 | Glowstone | Dan | :bulb: | [ ] |
