@@ -14,20 +14,20 @@
 | `Nether`  | Debris Farm | -221 | -493 |
 | `End` |End Portal #1| -674 | -943 |
 | `End` |City (looted ship)| -568 | -220 |
-| `End` |City with Ship` | -1859 | -4100 |
+| `End` |City with Ship | -1859 | -4100 |
 
 ## Who has what
 
 | Contact | Resource | Location | Notes |
 | ---  | --- | --- | --- |
 | Dan | Wool | Farm | All colors|
-| Owen | Iron | Farm | x |
-| Owen | Slimeballs | Farm | x |
-| Owen | Gunpowder | Farm | x |
-| Owen | Sugar Cane | Farm | x |
+| Owen | Iron | Farm |  |
+| Owen | Slimeballs | Farm |  |
+| Owen | Gunpowder | Farm |  |
+| Owen | Sugar Cane | Farm |  |
 
 ## Wanted List
 
-| Item wanted | Seeker | Notes | Fulfilled |
-| ---  | --- | --- | --- |
-| Glowstone | Dan | :bulb: | [ ] |
+| Item wanted | Seeker | Notes |
+| ---  | --- | --- |
+| Glowstone | Dan | :bulb: |
