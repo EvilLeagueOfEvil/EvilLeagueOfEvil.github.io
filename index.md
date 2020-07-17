@@ -18,14 +18,14 @@
 
 ## Who has what
 | Contact | Resource | Location | Notes |
-| --- | ---| ---| --- |
+| ---  | --- | --- | --- |
 |Dan| Wool | Farm | All colors|
-|Owen| Iron | Farm ||
-|Owen| Slimeballs | Farm ||
-|Owen| Gunpowder | Farm ||
-|Owen| Sugar Cane | Farm ||
+|Owen| Iron | Farm | |
+|Owen| Slimeballs | Farm | |
+|Owen| Gunpowder | Farm | |
+|Owen| Sugar Cane | Farm | |
 
 ## Wanted List
 | Item wanted | Seeker | Notes | Fulfilled |
-| --- | --- | --- | ---|
+| ---  | --- | --- | --- |
 | Glowstone| Dan| :bulb: | [ ] |
