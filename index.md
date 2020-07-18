@@ -25,6 +25,7 @@
 | Owen | Slimeballs | Farm |  |
 | Owen | Gunpowder | Farm |  |
 | Owen | Sugar Cane | Farm |  |
+| Owen | Bone Meal | Farm |  |
 
 ## Wanted List
 
