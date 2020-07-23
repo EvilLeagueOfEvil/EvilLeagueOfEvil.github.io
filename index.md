@@ -6,7 +6,7 @@
 | Area | Description | X | Z|
 | ---  | --- | --- | --- |
 | `Overworld`  | Mount Evil | -392 | 92 |
-| `Overworld`  | Farm | -392 | 92 |
+| `Overworld`  | Farm | -375 | 1100 |
 | `Overworld`  | Debris Farm Portal | -1714 | -3884 |
 | `Overworld`  | Soul Sand Valley/Fortress Portal | -6256 | -3898 |
 | `Overworld`  | Courtney's House | -430 | 800 |
