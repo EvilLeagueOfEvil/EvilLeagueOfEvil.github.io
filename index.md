@@ -31,4 +31,8 @@
 
 | Item wanted | Seeker | Notes |
 | ---  | --- | --- |
-| Glowstone | Dan | |
+| Redstone/Coal/Lapis Ore | Dan | Induct to storage system at farm |
+
+
+###### Donations
+######It's not required at all, but if you want to kick a few bucks to the cost of the server, I enabled the [donation page](https://server.pro/server/14601118) at server pro. 
