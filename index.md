@@ -35,4 +35,4 @@
 
 
 ###### Donations
-######It's not required at all, but if you want to kick a few bucks to the cost of the server, I enabled the [donation page](https://server.pro/server/14601118) at server pro. 
+###### It's not required at all, but if you want to kick a few bucks to the cost of the server, I enabled the [donation page](https://server.pro/server/14601118) at server pro. 
