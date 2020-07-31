@@ -2,6 +2,7 @@
 ---
 
 ## Members
+
 | Name | Skin |
 | --- | --- |
 | Wongidool | ![Wongidool skin](https://cravatar.eu/helmhead/Wongidool/68.png)
@@ -49,6 +50,7 @@
 
 
 ## Mods/Tweaks Installed
+
 Most of these are from [Vanilla Tweaks](https://vanillatweaks.net/)
 | Mod Name | Description | Link |
 | --- | --- | --- |
