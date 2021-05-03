@@ -27,6 +27,9 @@
 
 | Area | Description | X   | Z   |
 | ---- | ----------- | --- | --- |
+| Server Spawn | ----------- | 246 | 210 |
+| Nether Spawn | Nether | 42 | 27 |
+| Stronghold Portal | Nether | 214 | -103 |
 
 &nbsp;
 
