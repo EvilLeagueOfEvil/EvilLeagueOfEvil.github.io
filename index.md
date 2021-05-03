@@ -6,19 +6,20 @@
 
 | Name            | Skin                                                                         |
 | --------------- | ---------------------------------------------------------------------------- |
-| Wongidool       | ![Wongidool skin](https://cravatar.eu/helmhead/Wongidool/68.png)             |
-| KingRedEagle    | ![KingRedEagle skin](https://cravatar.eu/helmhead/KingRedEagle/68.png)       |
-| dalinicus       | ![dalinicus skin](https://cravatar.eu/helmhead/dalinicus/68.png)             |
-| cojoco          | ![cojoco skin](https://cravatar.eu/helmhead/cojoco/68.png)                   |
-| FlailingCamper  | ![FlailingCamper skin](https://cravatar.eu/helmhead/FlailingCamper/68.png)   |
-| gingerbutch     | ![gingerbutch skin](https://cravatar.eu/helmhead/gingerbutch/68.png)         |
-| GameNDave       | ![GameNDave skin](https://cravatar.eu/helmhead/GameNDave/68.png)             |
-| bluevulpine1    | ![bluevulpine1 skin](https://cravatar.eu/helmhead/bluevulpine1/68.png)       |
-| ChickenNuuuuget | ![ChickenNuuuuget skin](https://cravatar.eu/helmhead/ChickenNuuuuget/68.png) |
-| Andy_A          | ![Andy_A skin](https://cravatar.eu/helmhead/Andy_A/68.png)                   |
-| MegabyteMango   | ![MegabyteMango skin](https://cravatar.eu/helmhead/MegabyteMango/68.png)     |
-| AlphaCluster    | ![AlphaCluster skin](https://cravatar.eu/helmhead/AlphaCluster/68.png)       |
-| SilverWolf3015  | ![SilverWolf3015 skin](https://cravatar.eu/helmhead/SilverWolf3015/68.png)   |
+| DandalfTheNull  | ![Wongidool skin](https://www.mc-heads.net/head/dandalfthenull/68)           |
+| KingRedEagle    | ![KingRedEagle skin](https://www.mc-heads.net/head/KingRedEagle/68)             |
+| cojoco          | ![cojoco skin](https://www.mc-heads.net/head/cojoco/68)                         |
+| FlailingCamper  | ![FlailingCamper skin](https://www.mc-heads.net/head/FlailingCamper/68)         |
+| gingerbutch     | ![gingerbutch skin](https://www.mc-heads.net/head/gingerbutch/68)               |
+| GameNDave       | ![GameNDave skin](https://www.mc-heads.net/head/GameNDave/68)                   |
+| bluevulpine1    | ![bluevulpine1 skin](https://www.mc-heads.net/head/bluevulpine1/68)             |
+| ChickenNuuuuget | ![ChickenNuuuuget skin](https://www.mc-heads.net/head/ChickenNuuuuget/68)       |
+| Andy_A          | ![Andy_A skin](https://www.mc-heads.net/head/Andy_A/68)                         |
+| MegabyteMango   | ![MegabyteMango skin](https://www.mc-heads.net/head/MegabyteMango/68)           |
+| AlphaCluster    | ![AlphaCluster skin](https://www.mc-heads.net/head/AlphaCluster/68)             |
+| SilverWolf3015  | ![SilverWolf3015 skin](https://www.mc-heads.net/head/SilverWolf3015/68)         |
+| Miniac3913  | ![SilverWolf3015 skin](https://www.mc-heads.net/head/Miniac3913/68)         |
+| Papa_Toobs  | ![SilverWolf3015 skin](https://www.mc-heads.net/head/Papa_Toobs/68)         |
 
 &nbsp;
 
@@ -26,6 +27,9 @@
 
 | Area | Description | X   | Z   |
 | ---- | ----------- | --- | --- |
+| Server Spawn | ----------- | 246 | 210 |
+| Nether Spawn | Nether | 42 | 27 |
+| Stronghold Portal | Nether | 214 | -103 |
 
 &nbsp;
 
