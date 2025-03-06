@@ -64,4 +64,4 @@ Most of these are from [Vanilla Tweaks](https://vanillatweaks.net/)
 
 ###### Donations
 
-###### It's not required at all, but if you want to kick a few bucks to the cost of the server, there is a [donation page](https://server.pro/server/18605419) at server pro.
+###### It's not required at all, but if you want to kick a few bucks to the cost of the server, there is a [donation page](https://server.pro/server/29535499) at server pro.
